@@ -1,0 +1,8 @@
+@use "sass:color";
+
+$bgcolor: purple;
+
+body{
+    background: color.scale($bgcolor, $lightness: -80%);
+
+}
