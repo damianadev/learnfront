@@ -1,6 +1,6 @@
 # Start
 
-![Todo List Screenshot](screenshots/damian's-todo-list.png)
+![Todo List Screenshot](screenshots/damians-todo-list.png)
 
 - Bun
 - Vite
