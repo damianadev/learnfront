@@ -2,6 +2,7 @@
 import { ref } from 'vue';
 import Modal from './components/Modal.vue';
 import ImgModal from './components/ImgModal.vue';
+import ToDo from './pages/ToDo.vue'
 
 let modal1Active = ref(false);
 let modal2Active = ref(false);
@@ -20,5 +21,7 @@ let modal3Active = ref(false);
         <Modal :active="modal3Active" @close="modal3Active = false">
             <div class="box">I'm in a box.</div>
         </Modal>
+
+        <ToDo></ToDo>
     </div>
 </template>
