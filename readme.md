@@ -7,3 +7,4 @@
 - Vue
 - Sass
 - Bulma
+- vue-router
