@@ -8,3 +8,4 @@
 - Sass
 - Bulma
 - vue-router
+- axios
